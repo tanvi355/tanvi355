@@ -1,7 +1,7 @@
 
 
 
-### Hi there, I am Tanvi <img src="https://raw.githubusercontent.com/tanvi355/tanvi355/master/wave.gif" width="30px">
+### Hi there, I am Tanvi 👋
 
 
 - 🔭 I’m currently working on improving my problem solving skills
