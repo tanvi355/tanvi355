@@ -16,9 +16,6 @@
 
 #### I am a sophomore pursuing B.Tech in Computer Science and Engineering. I love exploring new technologies and learning new skills.
 
-##Tanvi's Github Stats
-
-
 
 
 [![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvi355)](https://github.com/tanvi355/github-readme-stats)
