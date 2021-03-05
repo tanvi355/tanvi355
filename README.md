@@ -19,3 +19,5 @@
 
 
 [![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvi355)](https://github.com/tanvi355/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=tanvi355&style=flat-square)
