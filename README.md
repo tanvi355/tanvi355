@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on improving my problem solving skills
-- 🌱 I’m currently learning DSA & beginning with ML
+- 🌱 I’m currently learning DSA and Flask
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to read biographies and non-fictions.
 
