@@ -11,6 +11,9 @@
 - 🏆 I recently participated in [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about) and secured **91st** rank among 1300+ participants!
 
 
+![](https://komarev.com/ghpvc/?username=tanvi355)
+
+
 [![Tanvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvi355)](https://github.com/tanvi355/github-readme-stats)
 
 [![Tanvi's github activity graph](https://activity-graph.herokuapp.com/graph?username=tanvi355&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
