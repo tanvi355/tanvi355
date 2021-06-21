@@ -3,7 +3,7 @@
 
 ### Hi there! I am Tanvi 👋
 
-- 👩‍💻 Participant at LGM-SoC'21
+- 👩‍💻 Participant at [_LGM-SoC'21_](https://lgmsoc.co/)
 - 🔭 I’m currently working on improving my problem solving skills
 - 🌱 I’m currently learning DSA and Flask 
 - 😄 Pronouns: She/Her
