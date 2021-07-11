@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on improving my problem solving skills
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like to read biographies and non-fictions.
-- 🏆 I recently participated in [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about) and secured **91st** rank among 1300+ participants!
+- 🏆 I recently participated in [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about) and secured **91st** rank among 1300+ active participants!
 
 <br>
   
