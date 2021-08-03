@@ -60,5 +60,5 @@
 <h2 align="center"> Reach out to me on </h2>
 <p align="center">
   <a href="mailto: tanvibugdani@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  <a target="_blank" href="www.linkedin.com/in/tanvi-bugdani/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a target="_blank" href="www.linkedin.com/in/tanvi-bugdani/-"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </p>
