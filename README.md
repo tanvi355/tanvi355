@@ -48,11 +48,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi355&layout=compact&theme=blueberry" />
 </a>
 
-  
+<!--
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tanvi355&theme=react-dark"/>
 </p>
-
+-->
 <h2 align="center"> Reach out to me on </h2>
 <p align="center">
   <a href="mailto: tanvibugdani@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
