@@ -41,13 +41,16 @@
 
 <br>
   
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvi355&layout=compact&hide=html&theme=blueberry" alt="tanvi355" />
-  &nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi355&layout=compact&theme=blueberry" />
-</a>
-
+<h2 align="center"> My GitHub Stats </h2>  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=tanvi355&layout=compact&hide=html&theme=blueberry" alt="tanvi355" />
+    &nbsp; &nbsp;
+    <!--
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi355&layout=compact&theme=blueberry" />
+  -->
+  </a>
+</p>
 <!--
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tanvi355&theme=react-dark"/>
