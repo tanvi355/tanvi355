@@ -1,4 +1,4 @@
-<img src="https://imgur.com/izvKR4R.png">
+<!--<img src="https://imgur.com/izvKR4R.png">-->
 
 
 <h1 align="center">Hi there! I am Tanvi 👋 </h1>
@@ -62,3 +62,5 @@
   <a href="mailto: tanvibugdani@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a target="_blank"href="https://www.linkedin.com/in/tanvi-bugdani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+<h1 align="center">🚀 Don't stress, finesse </h1>
