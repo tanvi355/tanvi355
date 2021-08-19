@@ -7,12 +7,12 @@
 <samp>
   
 - 📚 I am currently a rising junior at Government College of Engineering, Aurangabad majoring in Computer Science and Engineering.   
-- 👩‍💻 Participant at [_LGM-SoC'21_](https://lgmsoc.co/).
 - 🔭 I’m currently working on improving my problem solving skills.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like to read biographies and non-fictions.
 - 🏆 I recently participated in [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about) and secured **91st** rank among 1300+ active participants!
-
+- 👩‍💻 Open-source programs I've been a part of: [_Let's Grow More Summer of Code21_](https://lgmsoc.co/), [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about).
+- 📝 Read about my experience in participating in open-source programs [here](https://hashnode.com/post/my-experience-participating-in-open-source-programs-cksanzjo300q4f5s18bf50i6s)!
 
 </samp>
 
@@ -63,4 +63,4 @@
   <a target="_blank"href="https://www.linkedin.com/in/tanvi-bugdani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<h1 align="center">🚀 Don't stress, finesse </h1>
+<h1 align="center">🚀 Don't stress, finesse. </h1>
