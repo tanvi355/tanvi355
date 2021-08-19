@@ -6,7 +6,7 @@
 <h2 align="center"> About Me </h2>
 <samp>
   
-- 📚 I am currently a rising junior at Government College of Engineering, Aurangabad majoring in Computer Science and Engineering.   
+- 📚 I am a rising junior at Government College of Engineering, Aurangabad majoring in Computer Science and Engineering.   
 - 🔭 I’m currently working on improving my problem solving skills.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like to read biographies and non-fictions.
