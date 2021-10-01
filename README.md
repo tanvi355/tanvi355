@@ -9,8 +9,9 @@
 - 🔭 I’m currently working on improving my problem solving skills.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like to read biographies and non-fictions.
-- 🏆 I recently participated in [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about) and secured **91st** rank among 1300+ active participants!
 - 👩‍💻 Open-source programs I've been a part of: [_Let's Grow More Summer of Code21_](https://lgmsoc.co/), [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about).
+- 🏆 Ranked **91** among 1300+ active participants in [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about).
+- 🏆 Ranked **57** amnong 540+ active participants in [_Let's Grow More Summer of Code21_](https://lgmsoc.co/).
 - 📝 Read about my experience in participating in open-source programs [here](https://hashnode.com/post/my-experience-participating-in-open-source-programs-cksanzjo300q4f5s18bf50i6s)!
 
 </samp>
