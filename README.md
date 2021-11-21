@@ -9,7 +9,9 @@
 - 🔭 I’m currently working on improving my problem solving skills.
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I like to read biographies and non-fictions.
+<!--
 - 👩‍💻 Open-source programs I've been a part of: [_Let's Grow More Summer of Code21_](https://lgmsoc.co/), [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about).
+-->
 - 🏆 Ranked **91** among 1300+ active participants in [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about).
 - 🏆 Ranked **57*** among 540+ active participants in [_Let's Grow More Summer of Code, 2021_](https://lgmsoc.co/).
 - 📝 Read about my experience in participating in open-source programs [here](https://hashnode.com/post/my-experience-participating-in-open-source-programs-cksanzjo300q4f5s18bf50i6s)!
@@ -54,9 +56,11 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=tanvi355&theme=react-dark"/>
 </p>
+-->
 
 <h2 align="center"> Reach out to me on </h2>
 <p align="center">
@@ -64,4 +68,6 @@
   <a target="_blank"href="https://www.linkedin.com/in/tanvi-bugdani/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<!--
 <h1 align="center">🚀 Don't stress, finesse. </h1>
+-->
