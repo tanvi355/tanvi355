@@ -13,7 +13,7 @@
 - 👩‍💻 Open-source programs I've been a part of: [_Let's Grow More Summer of Code21_](https://lgmsoc.co/), [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about).
 -->
 - 🏆 Ranked **91** among 1300+ active participants in [_GirlScript Summer of Code, 2021_](https://gssoc.girlscript.tech/index.html#about).
-- 🏆 Ranked **59*** among 540+ active participants in [_Let's Grow More Summer of Code, 2021_](https://lgmsoc.co/).
+- 🏆 Ranked **59** among 540+ active participants in [_Let's Grow More Summer of Code, 2021_](https://lgmsoc.co/).
 - 📝 Read about my experience in participating in open-source programs [here](https://hashnode.com/post/my-experience-participating-in-open-source-programs-cksanzjo300q4f5s18bf50i6s)!
 
 </samp>
