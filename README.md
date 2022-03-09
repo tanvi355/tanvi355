@@ -4,7 +4,7 @@
 <h1 align="center">Hi there! I am Tanvi 👋 </h1>
 
 <h2 align="center"> About Me </h2>
-<samp>
+
     
 - 🔭 I’m currently working on improving my problem solving skills.
 - 😄 Pronouns: She/Her.
@@ -16,7 +16,7 @@
 - 🏆 Ranked **59** among 540+ active participants in [_Let's Grow More Summer of Code, 2021_](https://lgmsoc.co/).
 - 📝 Read about my experience in participating in open-source programs [here](https://hashnode.com/post/my-experience-participating-in-open-source-programs-cksanzjo300q4f5s18bf50i6s)!
 
-</samp>
+
 
 
 <p align="center">
