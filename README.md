@@ -44,6 +44,19 @@
 
 <br>
   
+<h2 align="center"> Profiles </h2>
+<p align="center">
+    <a href="https://leetcode.com/tanvi_/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
+    </a>
+    &nbsp; &nbsp;
+    <a href="https://www.hackerrank.com/tanvibugdani">
+        <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+    </a>
+ </p>
+ 
+ <br>
+
 <h2 align="center"> My GitHub Stats </h2>  
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
